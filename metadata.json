@@ -1,0 +1,7 @@
+{
+  "name": "Dora-Edit: Magical AI Image Assistant",
+  "description": "An AI-powered image editing application using Gemini 2.5 Flash Image. Upload photos and use natural language to add filters, remove objects, or transform your images with the magic of AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
